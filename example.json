@@ -1,0 +1,35 @@
+{
+   "name":"John Smith",
+   "sku":"20223",
+   "price":23.95,
+   "quantity": 4,
+   "available": true,
+   "isEmployee": true,
+   "description": "A high-quality product for everyday use.",
+   "tags": ["electronics", "imported", "new"],
+   "categories": ["smartphones", "tablets"],
+   "shipTo":{
+      "name":"Jane Smith",
+      "address":"123 Maple Street",
+      "city":"Pretendville",
+      "state":"NY",
+      "zip":"12345",
+      "country": "USA",
+      "phone": "123-456-7890"
+   },
+   "billTo":{
+      "name":"John Smith",
+      "address":"123 Maple Street",
+      "city":"Pretendville",
+      "state":"NY",
+      "zip":"12345",
+      "country": "USA",
+      "phone": "123-456-7890"
+   },
+   "warranty": {
+      "duration": "2 years",
+      "type": "manufacturer"
+   },
+   "returnPolicy": "30 days money back"
+}
+
